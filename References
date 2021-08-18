@@ -1,0 +1,41 @@
+
+#References 
+
+
+
+EDA 
+https://www.kaggle.com/tanlikesmath/siim-covid-19-detection-a-simple-eda
+
+Resized Data
+https://www.kaggle.com/h053473666/512-img-png-600-study-png
+https://www.kaggle.com/sreevishnudamodaran/siim-covid-19-resize-process-coco-dataset
+
+study level 
+https://www.kaggle.com/h053473666/siim-covid19-efnb7-train-study
+https://www.kaggle.com/sreevishnudamodaran/siim-effnetv2-keras-study-train-tpu-cv0-805
+https://keras.io/api
+
+
+image level classification
+https://www.kaggle.com/h053473666/siim-covid19-efnb7-train-fold0-5-2class
+https://www.kaggle.com/jasonhuangcn/tf-with-efficientnet-train
+
+image level Detection
+https://www.kaggle.com/sreevishnudamodaran/siim-mmdetection-cascadercnn-weight-bias
+https://github.com/open-mmlab/mmdetection
+
+
+model belnding & ensemble
+https://www.kaggle.com/batprem/model-blend
+https://www.kaggle.com/raufyagfarov/mmdetection-yolov4-pipeline-with-tta
+
+inference
+https://www.kaggle.com/sreevishnudamodaran/siim-effnetv2-l-cascadercnn-mmdetection-infer
+https://www.kaggle.com/sreevishnudamodaran/siim-mmdetection-cascadercnn-weight-bias
+
+
+Kaggle Discussions
+https://www.kaggle.com/c/siim-covid19-detection/discussion/240233
+https://www.kaggle.com/c/siim-covid19-detection/discussion/239891
+https://www.kaggle.com/c/siim-covid19-detection/discussion/240878
+https://www.kaggle.com/c/siim-covid19-detection/discussion/239898
