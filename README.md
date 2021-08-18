@@ -1,5 +1,5 @@
 # SIIM-COVID-19-Kaggle
-81st place Solution for SIIM COVID 19 Kaggle competition 
+81th place Solution for SIIM COVID 19 Kaggle competition 
 
 ## My main approach
 ensemble modeling
