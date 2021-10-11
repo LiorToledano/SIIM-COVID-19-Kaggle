@@ -1,5 +1,5 @@
 # SIIM-COVID-19-Kaggle
-81th place Solution for SIIM COVID 19 Kaggle competition 
+81st place Solution for SIIM COVID 19 Kaggle competition 
 
 ## My main approach
 ensemble modeling
@@ -24,7 +24,7 @@ ensemble modeling
 
 * On Cascade RCNN 101 - image training I upload only 1 fold from 5 I trained.
 * Each one of them took approx 6 hours so I divided each fold to another's kaggle notebook.
-* you can see the results of the 4 other folds including some others traning on my weight & biases profile
+* You can see the results of the 4 other folds including some others traning on my weight & biases profile
 
 https://wandb.ai/liortoledano/projects
 
