@@ -22,7 +22,7 @@ Ensemble modelling
 **5 Folds technique used in all models training.**
 
 
-* I upload only one fold from 5 I trained  On Cascade RCNN 101 - image training.
+* I upload only one fold from 5 I trained  On Cascade RCNN 101.
 * Each fold took approx 6 hours, so I divided each fold into another's Kaggle notebook.
 * You can see the results of 4 extra folds, including some other training results on my weight & biases profile.
 
