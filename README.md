@@ -2,12 +2,12 @@
 81st place Solution for SIIM COVID 19 Kaggle competition 
 
 ## My main approach
-ensemble modeling
+Ensemble modelling
 ### Classification – Study level
 
 * EfficientNet b7 – Trained on 600X600 resized images.
 * EfficientNet V2 – Trained on 768X768 resized images.
-* EfficientNet b7 – Trained on 640X640 resized images with external data from vinbigData comepition.
+* EfficientNet b7 – Trained on 640X640 resized images with external data from vinbigData competition.
 
 
 ### Classification – Image Level
@@ -17,14 +17,13 @@ ensemble modeling
 
 ### Detection – Image Level
 * Cascade RCNN 101 – Trained on 512X512 resized images
-* I took the two best epochs from each fold inorder to create an ensemble
+* I took the best two epochs from each fold to create a bigger and robust ensemble.
 
-**All models were trained with 5 Folds technique.**
+**5 Folds technique used in all models training.**
 
 
-* On Cascade RCNN 101 - image training I upload only 1 fold from 5 I trained.
-* Each one of them took approx 6 hours so I divided each fold to another's kaggle notebook.
-* You can see the results of the 4 other folds including some others traning on my weight & biases profile
+* I upload only one fold from 5 I trained  On Cascade RCNN 101 - image training.
+* Each fold took approx 6 hours, so I divided each fold into another's Kaggle notebook.
+* You can see the results of 4 extra folds, including some other training results on my weight & biases profile.
 
-https://wandb.ai/liortoledano/projects
-
+Thank you for your time.
