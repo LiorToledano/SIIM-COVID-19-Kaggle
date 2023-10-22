@@ -1,8 +1,8 @@
 # SIIM-COVID-19-Kaggle
-81st place Solution for SIIM COVID 19 Kaggle competition 
+81st place Solution for SIIM COVID-19 Kaggle competition 
 
 ## My main approach
-Ensemble modelling
+Ensemble modeling
 ### Classification – Study level
 
 * EfficientNet b7 – Trained on 600X600 resized images.
@@ -17,13 +17,13 @@ Ensemble modelling
 
 ### Detection – Image Level
 * Cascade RCNN 101 – Trained on 512X512 resized images
-* I took the best two epochs from each fold to create a bigger and robust ensemble.
+* I took the best two epochs from each fold to create a bigger and more robust ensemble.
 
 **5 Folds technique used in all models training.**
 
 
-* I upload only one fold from 5 I trained  On Cascade RCNN 101.
-* Each fold took approx 6 hours, so I divided each fold into another's Kaggle notebook.
+* I uploaded only one fold from the 5 I trained  On Cascade RCNN 101.
+* Each fold took approximately 6 hours, so I divided each fold into another's Kaggle notebook.
 * You can see the results of 4 extra folds, including some other training results on my weight & biases profile.
 
 Thank you for your time.
